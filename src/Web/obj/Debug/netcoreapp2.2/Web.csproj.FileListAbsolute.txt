@@ -5,6 +5,7 @@ C:\S533705\44663\MVCP2\src\Web\bin\Debug\netcoreapp2.2\Web.dll
 C:\S533705\44663\MVCP2\src\Web\bin\Debug\netcoreapp2.2\Web.pdb
 C:\S533705\44663\MVCP2\src\Web\bin\Debug\netcoreapp2.2\Web.Views.dll
 C:\S533705\44663\MVCP2\src\Web\bin\Debug\netcoreapp2.2\Web.Views.pdb
+C:\S533705\44663\MVCP2\src\Web\obj\Debug\netcoreapp2.2\Web.csprojAssemblyReference.cache
 C:\S533705\44663\MVCP2\src\Web\obj\Debug\netcoreapp2.2\Web.csproj.CoreCompileInputs.cache
 C:\S533705\44663\MVCP2\src\Web\obj\Debug\netcoreapp2.2\Web.RazorAssemblyInfo.cache
 C:\S533705\44663\MVCP2\src\Web\obj\Debug\netcoreapp2.2\Web.RazorAssemblyInfo.cs
@@ -32,4 +33,3 @@ C:\S533705\44663\MVCP2\src\Web\obj\Debug\netcoreapp2.2\Web.Views.pdb
 C:\S533705\44663\MVCP2\src\Web\obj\Debug\netcoreapp2.2\Web.dll
 C:\S533705\44663\MVCP2\src\Web\obj\Debug\netcoreapp2.2\Web.pdb
 C:\S533705\44663\MVCP2\src\Web\obj\Debug\netcoreapp2.2\Web.csproj.CopyComplete
-C:\S533705\44663\MVCP2\src\Web\obj\Debug\netcoreapp2.2\Web.csprojAssemblyReference.cache

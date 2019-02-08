@@ -16,6 +16,16 @@ namespace UnitTests
         }
 
         [Fact]
+        public void Lowest_WorksWithTwoNIntegers()
+        {
+            var expected = 2;
+            var a = 5;
+            var b = 2;
+            var actual = getLowest(a, b);
+            Assert.Equal(expected, actual);
+        }
+
+        [Fact]
         public void Testing_SalaryWithNegativeIntegers()
         {
             double wageRate = -11.25;
@@ -44,5 +54,9 @@ namespace UnitTests
                 return wageRate * hours;
             }
          }
+        int getLowest(int a, int b)
+        {
+            return Math.Min(a, b);
+        }
     }
 }
